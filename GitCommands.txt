@@ -6,3 +6,6 @@ Configure Git Initially
 git config --global user.name vishrantigharge
 git config --global user.email vishranti.gharge@gmail.com
 _______________________________________________________________________________
+
+Git pull
+It will pull the code from Git Repo configured to your account and will always keep in sync with your local changes.
