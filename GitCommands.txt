@@ -9,3 +9,8 @@ _______________________________________________________________________________
 
 Git pull
 It will pull the code from Git Repo configured to your account and will always keep in sync with your local changes.
+-----------------------------------------------------------------------
+
+Git pull again change at 6:51
+New commands need to add
+-------------------------------------------------------------------------
