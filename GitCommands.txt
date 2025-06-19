@@ -1,0 +1,8 @@
+
+Git Commands________________
+
+Configure Git Initially
+
+git config --global user.name vishrantigharge
+git config --global user.email vishranti.gharge@gmail.com
+_______________________________________________________________________________
